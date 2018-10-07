@@ -1,0 +1,19 @@
+figure {
+
+    border: 15px solid #754ef9;
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    overflow: hidden;
+
+}
+
+img {
+
+   /* border: 15px solid #754ef9 ;
+    /* emmet: h352+w352*/
+    
+    width: 352px;
+    height: 352px;
+    /*border-radius: 50%;
+}
