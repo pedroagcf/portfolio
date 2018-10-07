@@ -1,0 +1,19 @@
+button {
+
+    background-color: blueviolet;
+    border-radius: 25px;
+    font-family: 'Montserrat', sans-serif;
+    /* padding: top right bottom left */
+    /* padding-left: 20px; */
+    /* padding-right: 20px;  */
+    margin: 30px;
+    padding: 0 30px;
+    border: 2px solid red; 
+    color: #FFF;
+    width: 202px;
+    height: 50px;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
