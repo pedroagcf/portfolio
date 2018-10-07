@@ -1,9 +1,0 @@
-.wrap-channel {
-    text-align: center;
-    padding: 86px 230px 100px;
-
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    flex-direction: row-reverse;
-}
