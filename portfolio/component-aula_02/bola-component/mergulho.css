@@ -9,7 +9,7 @@ figure {
     overflow: hidden;
     position: absolute; /*difente de static*/
     left: 41%;
-    top: 47%;
+    top: 46%;
     transform: translateX(-50%) translateY(-50%);
     
     
