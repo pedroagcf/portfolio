@@ -9,3 +9,7 @@
     text-transform: uppercase;
     margin-right: 42px; 
 }
+
+.main-menu .item:hover { 
+    color: #754ef9; 
+}

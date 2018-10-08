@@ -1,0 +1,25 @@
+.play-video {
+    display: block;
+    position: relative;
+    height: 78px;
+    width: 78px;
+    
+    border-radius: 50%;
+    background-color: #FFF;
+    
+    box-shadow: 0 5px 15px 0 rgba(117, 78, 249, 0.16);
+    text-indent: -9999px;
+}
+
+.play-video::before {
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 30px;
+    left:34px;
+    content: '';
+    border-top: 10px solid transparent;
+    border-right: 12px solid transparent; 
+    border-bottom: 10px solid transparent;
+    border-left: 12px solid #754ef9;
+}
