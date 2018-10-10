@@ -1,0 +1,10 @@
+.main-logo {
+    font-size: 35px;
+    font-weight: 400;
+    display: inline-block;
+    color: #fff;
+  }
+.main-logo:hover { 
+    color: #e75318; 
+}
+    

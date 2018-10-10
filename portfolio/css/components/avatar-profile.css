@@ -1,0 +1,19 @@
+.avatar-profile {
+    /* box-sizing: border-box; */
+    display: inline-block;
+    border-radius: 50%;
+    padding: 70px;
+    position: fixed;
+    /* float: left; */
+    text-align: center;
+
+}
+
+.avatar-profile .photo{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 24px solid #4b4a4d;
+    position: absolute;   
+}
